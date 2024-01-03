@@ -1,8 +1,8 @@
-# YouApp Backend Engineer Test
+# YouApp Backend
 
 ## Table of Contents
 
-- [YouApp Backend Engineer Test](#youapp-backend-engineer-test)
+- [YouApp Backend](#youapp-backend)
   - [Table of Contents](#table-of-contents)
   - [Technology](#technology)
   - [Install](#install)
