@@ -7,7 +7,6 @@
   - [Technology](#technology)
   - [Install](#install)
   - [Usage](#usage)
-  - [Postman Collection](#postman-collection)
 
 ## Technology
 Required Node.js Installed on Device
@@ -36,6 +35,3 @@ Local
 ```bash
 npm run start:dev
 ```
-
-## Postman Collection
-- [Link](https://api.postman.com/collections/6658250-8b89c551-9167-406a-96c4-d44c822f9cda?access_key=PMAT-01GX61Y8034HPG354NYKEJGX18)
