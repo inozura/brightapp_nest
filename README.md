@@ -15,6 +15,7 @@ Required Node.js Installed on Device
 - Nest.js
 - MongoDB
 - JWT
+- RabbitMQ
 
 ## Install
 
