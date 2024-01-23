@@ -1,8 +1,8 @@
-# YouApp Backend
+# BrightApp Backend
 
 ## Table of Contents
 
-- [YouApp Backend](#youapp-backend)
+- [BrightApp Backend](#brightapp-backend)
   - [Table of Contents](#table-of-contents)
   - [Technology](#technology)
   - [Install](#install)
