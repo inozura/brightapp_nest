@@ -9,14 +9,12 @@ import {
   UseInterceptors,
   UploadedFile,
   Res,
-  StreamableFile,
 } from '@nestjs/common';
 import { ProfileService } from '../../services/profile.service';
 import { ProfileRequestDTO } from '../../dtos/request/profile-request.dto';
 import { AuthGuard } from 'src/guards/auth.guards';
 import { FileInterceptor } from '@nestjs/platform-express';
 import { Response } from 'express';
-import { createReadStream } from 'fs';
 
 @Controller()
 export class ProfileController {

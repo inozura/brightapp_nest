@@ -30,7 +30,6 @@ export class ProfileService {
       );
     }
 
-    console.log('image', image, ProfileRequestDTO);
     if (image !== undefined || ProfileRequestDTO.image !== '') {
       const uploadImage = await this.storageService
         .saveImage(image, userId)
