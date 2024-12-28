@@ -15,6 +15,7 @@ Required Node.js Installed on Device
 - MongoDB
 - JWT
 - RabbitMQ
+- Local/Cloudinary storage
 
 ## Install
 
